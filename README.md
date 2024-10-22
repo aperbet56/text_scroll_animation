@@ -10,7 +10,7 @@ Création d'un effet d'apparition de texte au scroll avec HTML5, CSS3, JavaScrip
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/text_scroll_animation/
 
 ## Projet développé avec
 
