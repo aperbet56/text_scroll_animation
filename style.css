@@ -48,6 +48,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 1rem;
 }
   
 h1 {
@@ -60,4 +61,12 @@ p {
     padding: 2rem;
     font-size: 4rem;
     color: #ffffff;
+}
+
+/**** Responsive design tablette ****/
+
+@media screen and (max-width: 992px) {
+    h1 {
+        font-size: 6rem;
+    }
 }
