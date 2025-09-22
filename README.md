@@ -1,5 +1,7 @@
 ## ANIMATION DU TEXTE AU SCROLL
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création d'un effet d'apparition de texte au scroll avec HTML5, CSS3, JavaScript et les librairies JS :
